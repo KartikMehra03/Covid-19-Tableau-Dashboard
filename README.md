@@ -1,7 +1,7 @@
 # Covid-19 Tableau-Dashboard
 **Covid-19 Analysis**: This is an interactive Tableau dashboard that analyzes the COVID-19 situation in India. The workbook provides insights into cases, deaths, recoveries, testing, and vaccination progress, with a focus on state-wise analysis.  
 
-**Tech Stack**
+🛠️ **Tech Stack**
 
 • 📂 **Tableau Desktop** – Use for data cleaning, data modeling, visualization creation, and dashboard development.  
 
