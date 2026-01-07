@@ -1,5 +1,5 @@
 # Covid-19 Tableau-Dashboard
-**Covid-19 Analysis**: This is an interactive Tableau dashboard that analyzes the COVID-19 situation in India. The workbook provides insights into cases, deaths, recoveries, testing, and vaccination progress, with a focus on state-wise analysis.  
+**Covid-19 Analysis**: This is an interactive Tableau dashboard that analyzes the COVID-19 situation in India. The workbook provides insights into cases, testing, confirmed, deaths and vaccination progress with a focus on state-wise analysis.  
 
 🛠️ **Tech Stack**
 
@@ -13,6 +13,18 @@
 
 **Key Visual**
 
-**Clustered Bar Chart**: Visualizes the State-Wise Testing Details . **Combo Chart**: Visualizes the Cases and Deaths. **Line Chart**: Visualizes the Vaccination in each month. **Map**: Visualizes the State-Wise Deaths.
+• **Clustered Bar Chart**: Visualizes the State-Wise Testing Details . 
 
-**Insights and Conclusions** • Maharashtra has the Highest numbers of Cases and Deaths. • Andhra Pradesh has the Lowest numbers of cases. • In the month of July 24,527M people were vaccinated.
+• **Combo Chart**: Visualizes the Cases and Deaths. 
+
+• **Line Chart**: Visualizes the Vaccination in each month. 
+
+• **Map**: Visualizes the State-Wise Deaths.
+
+**Insights and Conclusions** 
+
+• Maharashtra has the Highest numbers of Cases and Deaths. 
+
+• Andhra Pradesh has the Lowest numbers of cases. 
+
+• In the month of July Highest number of people were vaccinated with 24,527M Count.
