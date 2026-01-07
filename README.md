@@ -5,9 +5,7 @@
 
 • 📂 **Tableau Desktop** – Use for data cleaning, data modeling, visualization creation, and dashboard development.  
 
-• 📊 **Tableau Worksheets & Dashboards** – Individual analytical views combined into an interactive dashboard.  
-
-• 🧠 **Calculated Fields** – Used to derive metrics such as recovery rates, death ratios, and trends.  
+• 📊 **Tableau Worksheets & Dashboards** – Individual analytical views combined into an interactive dashboard.   
 
 **Features / Highlights**
 
